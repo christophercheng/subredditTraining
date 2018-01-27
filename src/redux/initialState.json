@@ -1,0 +1,16 @@
+{
+  "selectedSubcategory": "onkyo",
+  "fetchingData": false,
+  "data": {
+    "onkyo": {
+      "fetchTime": "Wed Mar 9 2017 03:26:00 GMT-0800 (PST)",
+      "numPosts": 9,
+      "loading": false
+    },
+    "pioneer": {
+      "fetchTime": "Tues Mar 8 2017 03:00:00 GMT-0800 (PST)",
+      "numPosts": 52,
+      "loading": false
+    }
+  }
+}
